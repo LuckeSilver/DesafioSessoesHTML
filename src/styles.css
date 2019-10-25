@@ -21,7 +21,7 @@ body {
   flex-basis: 800px;
   margin-bottom: 0px;
   padding: 10px;
-  background-color: #fad390;
+  background-color: #ffa200;
 }
 
 .section {
@@ -31,7 +31,7 @@ body {
 }
 
 .item:hover {
-  background-color: red;
+  background-color: rgb(4, 248, 187);
 }
 
 .artigo {
@@ -45,21 +45,21 @@ body {
 
 nav.out {
   margin-right: 0px;
-  background-color: #f8c291;
+  background-color: #f58924;
 }
 
 aside.out {
   margin-left: 0px;
-  background-color: #82ccdd;
+  background-color: #16687a;
 }
 
 .inside {
-  background-color: #e55039;
+  background-color: #e539d7;
 }
 
 .footer {
   flex-basis: 800px;
   margin-top: 0px;
   padding: 10px;
-  background-color: #b8e994;
+  background-color: #56b811;
 }
